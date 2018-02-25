@@ -8,6 +8,7 @@ I talked to Moto:
 
 3.5" 40-pin PATA SSD, 1GB
 ADG3-CFMS01
+
 Remove the failed rive from the bottom (the screws are accessable from the hole left after you take off the fan.)
 
 Stick in the flash unit where the HDD was. The one listed fits perfectly. 
