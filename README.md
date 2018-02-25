@@ -3,7 +3,8 @@ All system files from HDD to rebuild OS for the HP16500C
 
 you can use these files to recover an HP16500C with a failed HDD.
 
-Buy this drive from HSC-US:moto@hsc-us.com
+Buy this drive from HSC-US:	http://www.hsc-us.com
+I talked to Moto:
 
 3.5" 40-pin PATA SSD, 1GB
 ADG3-CFMS01
