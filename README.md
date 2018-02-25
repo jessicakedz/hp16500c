@@ -39,7 +39,7 @@ Disconnect when done. Power down the HP16500C. Remove the floppy. Power it up, a
 
 I built this proceedure from pieces of all of these Excellent references: Thank you all!!!
 
-BTW, this DID NOT work on the HP16500B version. I dont know why?
+BTW, the FTP methods DID NOT work on the HP16500B version. I dont know why?
 
 * https://www.philpem.me.uk/elec/testgear/hp16500b/reinstall/
 * http://spurtikus.de/2016/03/30/hp-16500c-logic-analyzer-information/
