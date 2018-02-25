@@ -35,7 +35,7 @@ move the files one directory at a time. once the files are qued in file zilla, d
 
 I had to close and repoen filezilla after each directory of files was done being transferred. I was using 3.24.1 on windows 7. 
 
-disconnect. power down the HP16500C, power it up with the floppy out of the drive, and it should be ready 2 go! 
+Disconnect when done. Power down the HP16500C. Remove the floppy. Power it up, and it should be ready to go! 
 
 I built this proceedure from pieces of all of these Excellent references: Thank you all!!!
 
