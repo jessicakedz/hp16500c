@@ -4,14 +4,14 @@ All system files from HDD to rebuild OS for the HP16500C
 you can use these files to recover an HP16500C with a failed HDD.
 
 Buy this drive from HSC-US:	http://www.hsc-us.com
-I talked to Moto:
+(I talked to Mr. Moto Wantanabe):
 
 3.5" 40-pin PATA SSD, 1GB
 ADG3-CFMS01
 
 Remove the failed rive from the bottom (the screws are accessable from the hole left after you take off the fan.)
 
-Stick in the flash unit where the HDD was. The one listed fits perfectly. 
+Install the flash unit where the HDD was. The one listed fits perfectly. 
 
 Copy these files to a floppy
 * \system\disc\hard\system\system
@@ -31,13 +31,15 @@ Use filezilla to connect, (use whatever IP address you assigned, "control" as th
 
 Build the directory structure exactly as in this repository. You may not actually need all of them. I just copied everything and it worked perfectly. It is a bit tedious. Trying to copy a directory will make the '500c crash. If that happens, just power cycle it. 
 
-move the files one directory at a time. once the files are qued in file zilla, disconnect and the transfers will start. 
+Move the files one directory at a time. once the files are qued in file zilla, disconnect from the server (red x button in filezilla) and the transfers will start. 
 
 I had to close and repoen filezilla after each directory of files was done being transferred. I was using 3.24.1 on windows 7. 
 
 Disconnect when done. Power down the HP16500C. Remove the floppy. Power it up, and it should be ready to go! 
 
 I built this proceedure from pieces of all of these Excellent references: Thank you all!!!
+
+BTW, this DID NOT work on the HP16500B version. I dont know why?
 
 * https://www.philpem.me.uk/elec/testgear/hp16500b/reinstall/
 * http://spurtikus.de/2016/03/30/hp-16500c-logic-analyzer-information/
