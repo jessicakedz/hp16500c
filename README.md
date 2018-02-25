@@ -21,6 +21,8 @@ Copy these files to a floppy
 
 Then boot the HP16500C from the floppy. (put in the floppy and power it up)
 
+select HDD, then format.
+
 set the IP address to an unused address on your network.
 Set the gateway to the router address.
 Connect the analyser to your ethernet network.
