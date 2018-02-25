@@ -1,0 +1,5 @@
+  Analyzer name: HP16500C            
+
+  Hostname                         UID     GID      Directory
+  ========                         ======  ======   =========
+  FTP:(10.0.0.4,49563)              00000   00000   /control 

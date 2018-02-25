@@ -1,0 +1,16 @@
+DISK DIRECTORY                                                                  
+
+DOS Filename  Date    Time     Bytes   Description
+____________  _______ ________ _______ ________________________________
+
+..            23Sep97 12:49:56       0 DIRECTORY                       
+DEMO_1  ._C   23Sep97 12:50:42  270848 STATE/TIMING/SCOPE 16550A/16534A
+DEMO_1  ._E   23Sep97 12:50:46  235008 STATE/TIMING/SCOPE 16550A/16534A
+DEMO_1  .__   23Sep97 12:50:40    1792 STATE/TIMING/SCOPE 16550A/16534A
+DEMO_2  ._D   23Sep97 12:50:48  210176 PATTERN GEN    16522A/16550A    
+DEMO_2  ._E   23Sep97 12:50:50  232704 PATTERN GEN    16522A/16550A    
+FULL_CH .TXT  23Sep97 12:50:50     680 DOS FILE                        
+NAGI           5Mar98 10:37:46       0 DIRECTORY                       
+NAGI    .__    5Mar98 10:39:00    2560 HYSIF                           
+README  .TXT  23Sep97 12:50:52    1022 DOS FILE                        
+

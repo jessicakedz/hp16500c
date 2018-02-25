@@ -1,0 +1,5 @@
+Stack depth, max = 1544
+Memory allocated, now: 0 bytes, 70 buffers
+Memory allocated, max: 0 bytes, 70 buffers
+Memory allocated, cumulative: 11899 bytes, 76 buffers
+Largest buffer allocated: 288 bytes by Pk:findbuf.c(218)

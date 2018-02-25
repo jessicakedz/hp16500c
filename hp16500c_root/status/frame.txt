@@ -1,0 +1,6 @@
+  Analyzer name: HP16500C            
+
+  Slot      Module Name          Code Version  Card ID Code
+  ======    ===========          ============  ============
+  CPU       System               V01.03            
+  slot_e    4GHz/1GHz LA         V01.00        004 

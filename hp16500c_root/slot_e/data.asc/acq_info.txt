@@ -1,0 +1,4 @@
+Beginning_line    0              
+Number_lines      0              
+Beginning_time     0             
+Sample_period      9.9999997e-10 
